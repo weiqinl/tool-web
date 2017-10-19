@@ -1,0 +1,21 @@
+{
+  "name": "gulpcsswrap",
+  "version": "1.0.0",
+  "description": "使用命名空间包装css规则",
+  "main": "gulpcsswrap.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-css-wrap": "^0.1.2",
+    "path": "^0.12.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp-css-wrap"
+  ],
+  "author": "<772863869@qq.com> weiqinl",
+  "license": "MIT"
+}
