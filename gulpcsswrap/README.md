@@ -1,8 +1,10 @@
 # gulpcsswrap  
 ## 说明  
-使用的是npm包'gulp-css-wrap'   
+使用的是npm包[gulp-css-wrap](https://npm.taobao.org/package/gulp-css-wrap)   
 作用是：给css添加命名空间。  
 例如： `.el-button{color: #ff0000} ` ===>  `.custom-ff0000 .el-button{color: #ff0000}` 
+
+[gulp使用指南](http://www.gulpjs.com.cn/docs/getting-started/)  
 ## Build Setup  
 
 ``` bash
