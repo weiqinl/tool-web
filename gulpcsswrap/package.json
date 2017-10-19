@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "使用命名空间包装css规则",
   "main": "gulpcsswrap.js",
-  "dependencies": {},
+  "dependencies": {
+  },
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-clean-css": "^3.9.0",

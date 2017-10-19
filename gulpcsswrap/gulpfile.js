@@ -8,5 +8,5 @@ gulp.task('css-wrap', function () {
 			selector: '.custom-20a0ff' /* 添加的命名空间 */
 		}))
 		.pipe(cleanCSS())
-		.pipe(gulp.dest('dist/20a0ff-index')) /* 存放的目录 */
+		.pipe(gulp.dest('dist/20a0ff')) /* 存放的目录 */
 })
